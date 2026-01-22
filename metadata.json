@@ -1,0 +1,8 @@
+{
+  "name": "LumiVault AI",
+  "description": "LumiVault AI is your cyber-cute financial companion. Using advanced Gemini AI, it parses receipts, manages budgets, visualizes your dreams, and talks to you via real-time voice interaction to help you achieve financial freedom with a futuristic flair.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
